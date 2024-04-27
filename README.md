@@ -9,6 +9,6 @@ Acadêmico: Uma linha do tempo educacional mostrando meu progresso acadêmico.
 Serviços: Uma lista dos serviços que ofereço como desenvolvedor de sistemas.
 Contato: Informações de contato para me alcançar.
 Tecnologias Utilizadas
-HTML5
+HTML
 CSS
 Boxicons (para ícones)
